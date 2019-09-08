@@ -10,7 +10,7 @@ Usage
 - There's a column with dropdown menus with states - "Already added", "Not added","APPROVE", and "NOT APPROVE"
 	- "Already added" and "Not added" refer to whether the event was approved or not approved by the secretary.
 	- "APPROVE" and "NOT APPROVE" should be used for new event submissions (or event submissions that were previously not approved)
-- Approve events or not approve them, and then hit Calendar-> Update calendar.
+- Approve events or not approve them, add any feedback in the column to the right, and then hit Calendar-> Update calendar.
 
 
 
